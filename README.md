@@ -27,22 +27,6 @@ QPAT-01 is an AI-powered tool designed to analyze past question papers, identify
 *   A valid Google API key (required for AI functionalities)
 *   Internet connectivity (for accessing Google AI services)
 
-### Installation
-
-1.  Clone the repository:
-
-    ```bash
-    git clone <repository-url>
-    cd EH_01
-    ```
-
-2.  Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Configuration
 
 1.  **API Key**: Obtain a Google API key and enter it in the application's sidebar. The application will automatically save it to `.env` file.
 
